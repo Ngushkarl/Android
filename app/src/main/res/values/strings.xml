@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Txtview</string>
+    <string name="this_is_the_fourth_text_view">This is the fourth text view</string>
+    <string name="this_is_first_text">This is first text</string>
+    <string name="this_is_second_text">This is second text</string>
+    <string name="this_is_the_third_text_view">This is the third text view</string>
+</resources>
